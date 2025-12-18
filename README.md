@@ -1,11 +1,16 @@
-微信朋友圈关系分析工具 专业版
+# 微信朋友圈关系分析工具 专业版
+
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+
+![Version](https://img.shields.io/badge/version-4.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.7+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
 一款基于 Python 的微信朋友圈社交网络分析工具，支持自动采集、互动关系挖掘、社区发现和可视化展示。
-功能特性 • 快速开始 • 使用指南 • 常见问题
+
+[功能特性](#功能特性) • [快速开始](#快速开始) • [使用指南](#使用指南) • [常见问题](#常见问题)
+
 </div>
 ---
 
